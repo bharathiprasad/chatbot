@@ -22,7 +22,7 @@ A simple and interactive chatbot built with Flask that provides intelligent resp
 1. **Clone the repository**
    ```bash
    git clone https://github.com/bharathiprasad/chatbot.git
-   cd your-chatbot-repo
+   cd chatbot
    ```
 
 2. **Create a virtual environment** (recommended)
